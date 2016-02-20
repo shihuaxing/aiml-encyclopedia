@@ -1,0 +1,1 @@
+A collection of AIML files for botmasters, the AIML Encyclopedia contains information on over 150,000 topics and definitions of almost every word in the English language. Based on Wordnet 3.0 - Lexical Database for the English Language.
